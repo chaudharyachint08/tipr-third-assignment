@@ -3,5 +3,5 @@
 
 <h3>Keypoints</h3>
 <pre>
-  1. Datasets & experiments doen on Google Colab
+  1. Datasets & experiments done on Google Colab
 </pre>
